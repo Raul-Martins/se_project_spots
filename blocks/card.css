@@ -24,8 +24,8 @@
   background-color: rgba(0, 0, 0, 0);
   cursor: pointer;
   position: relative;
-  top: 40px;
-  right: -371px;
+  top: 50px;
+  right: -246px;
 }
 
 .card__delete-button:hover {
