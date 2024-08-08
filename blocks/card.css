@@ -25,7 +25,7 @@
   cursor: pointer;
   position: relative;
   top: 50px;
-  right: -246px;
+  right: -371px;
 }
 
 .card__delete-button:hover {
@@ -79,5 +79,9 @@
     font-size: 16px;
     line-height: 1;
     max-width: 260px;
+  }
+
+  .card__delete-button {
+    right: -246px;
   }
 }
